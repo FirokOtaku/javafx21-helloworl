@@ -5,6 +5,7 @@
 <?import javafx.scene.layout.VBox?>
 
 <?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
 <VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
       fx:controller="firok.demo.javafx21helloworld.HelloController">
     <padding>
@@ -13,4 +14,9 @@
 
     <Label fx:id="welcomeText"/>
     <Button text="Hello!" onAction="#onHelloButtonClick"/>
+
+    <TextField fx:id="tfA" promptText="TF A" />
+    <TextField fx:id="tfB" promptText="TF B" />
+
+    <Button fx:id="btn" text="运算" onAction="#onBtnClick"/>
 </VBox>
