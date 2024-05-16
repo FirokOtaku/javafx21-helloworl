@@ -1,6 +1,7 @@
 module firok.demo.javafx21helloworld {
     requires javafx.controls;
     requires javafx.fxml;
+    requires javafx.web;
     requires com.sun.jna;
 
 
