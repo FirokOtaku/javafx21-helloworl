@@ -13,11 +13,11 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.9.2</junit.version>
         <jna.version>5.14.0</jna.version>
-<!--        <javafx.version>21.0.3</javafx.version>-->
-<!--        <javafx.platform>linux</javafx.platform>-->
+        <javafx.version>21.0.3</javafx.version>
+        <javafx.platform>linux</javafx.platform>
 
-        <javafx.version>17.0.1</javafx.version>
-        <javafx.platform>linux-arm32-monocle</javafx.platform>
+<!--        <javafx.version>17.0.1</javafx.version>-->
+<!--        <javafx.platform>linux-arm32-monocle</javafx.platform>-->
     </properties>
 
     <dependencies>
