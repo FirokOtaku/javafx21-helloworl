@@ -13,7 +13,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.9.2</junit.version>
         <jna.version>5.14.0</jna.version>
-        <javafx.version>21.0.3</javafx.version>
+<!--        <javafx.version>21.0.3</javafx.version>-->
+        <javafx.version>17.0.11</javafx.version>
     </properties>
 
     <dependencies>
